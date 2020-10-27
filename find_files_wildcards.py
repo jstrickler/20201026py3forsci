@@ -5,7 +5,6 @@ from glob import glob
 TARGET_FOLDER = sys.argv.pop(1)   # first arg on command line
 TARGET_PATTERN = sys.argv.pop(1)  # second arg on command line
 
-
 found = False
 for folder, subfolders, files in os.walk(TARGET_FOLDER):   #  C:/Users/yourname, etc.
     os.chdir(folder)
