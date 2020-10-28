@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='ASCII'?>
+<presidents>
+  <president term_number="1">
+    <firstname>George</firstname>
+    <lastname>Washington</lastname>
+    <birthplace>Westmoreland County</birthplace>
+    <birthstate>Virginia</birthstate>
+    <party>no party</party>
+  </president>
+  <president term_number="2">
+    <firstname>John</firstname>
+    <lastname>Adams</lastname>
+    <birthplace>Braintree, Norfolk</birthplace>
+    <birthstate>Massachusetts</birthstate>
+    <party>Federalist</party>
+  </president>
+  <president term_number="3">
+    <firstname>Thomas</firstname>
+    <lastname>Jefferson</lastname>
+    <birthplace>Albermarle County</birthplace>
+    <birthstate>Virginia</birthstate>
+    <party>Democratic - Republican</party>
+  </president>
+  <president term_number="4">
+    <firstname>James</firstname>
+    <lastname>Madison</lastname>
+    <birthplace>Port Conway</birthplace>
+    <birthstate>Virginia</birthstate>
+    <party>Democratic - Republican</party>
+  </president>
+  <president term_number="5">
+    <firstname>James</firstname>
+    <lastname>Monroe</lastname>
+    <birthplace>Westmoreland County</birthplace>
+    <birthstate>Virginia</birthstate>
+    <party>Democratic - Republican</party>
+  </president>
+  <president term_number="6">
+    <firstname>John Quincy</firstname>
+    <lastname>Adams</lastname>
+    <birthplace>Braintree, Norfolk</birthplace>
+    <birthstate>Massachusetts</birthstate>
+    <party>Democratic - Republican</party>
+  </president>
+  <president term_number="7">
+    <firstname>Andrew</firstname>
+    <lastname>Jackson</lastname>
+    <birthplace>Waxhaw</birthplace>
+    <birthstate>South Carolina</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="8">
+    <firstname>Martin</firstname>
+    <lastname>Van Buren</lastname>
+    <birthplace>Kinderhook</birthplace>
+    <birthstate>New York</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="9">
+    <firstname>William Henry</firstname>
+    <lastname>Harrison</lastname>
+    <birthplace>Berkeley</birthplace>
+    <birthstate>Virginia</birthstate>
+    <party>Whig</party>
+  </president>
+  <president term_number="10">
+    <firstname>John</firstname>
+    <lastname>Tyler</lastname>
+    <birthplace>Charles City County</birthplace>
+    <birthstate>Virginia</birthstate>
+    <party>Whig</party>
+  </president>
+  <president term_number="11">
+    <firstname>James Knox</firstname>
+    <lastname>Polk</lastname>
+    <birthplace>Mecklenburg County</birthplace>
+    <birthstate>North Carolina</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="12">
+    <firstname>Zachary</firstname>
+    <lastname>Taylor</lastname>
+    <birthplace>Orange County</birthplace>
+    <birthstate>Virginia</birthstate>
+    <party>Whig</party>
+  </president>
+  <president term_number="13">
+    <firstname>Millard</firstname>
+    <lastname>Fillmore</lastname>
+    <birthplace>Cayuga County</birthplace>
+    <birthstate>New York</birthstate>
+    <party>Whig</party>
+  </president>
+  <president term_number="14">
+    <firstname>Franklin</firstname>
+    <lastname>Pierce</lastname>
+    <birthplace>Hillsboro</birthplace>
+    <birthstate>New Hampshire</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="15">
+    <firstname>James</firstname>
+    <lastname>Buchanan</lastname>
+    <birthplace>Cove Gap</birthplace>
+    <birthstate>Pennsylvania</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="16">
+    <firstname>Abraham</firstname>
+    <lastname>Lincoln</lastname>
+    <birthplace>Hodgenville, Hardin County</birthplace>
+    <birthstate>Kentucky</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="17">
+    <firstname>Andrew</firstname>
+    <lastname>Johnson</lastname>
+    <birthplace>Raleigh</birthplace>
+    <birthstate>North Carolina</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="18">
+    <firstname>Ulysses Simpson</firstname>
+    <lastname>Grant</lastname>
+    <birthplace>Point Pleasant</birthplace>
+    <birthstate>Ohio</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="19">
+    <firstname>Rutherford Birchard</firstname>
+    <lastname>Hayes</lastname>
+    <birthplace>Delaware</birthplace>
+    <birthstate>Ohio</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="20">
+    <firstname>James Abram</firstname>
+    <lastname>Garfield</lastname>
+    <birthplace>Orange, Cuyahoga County</birthplace>
+    <birthstate>Ohio</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="21">
+    <firstname>Chester Alan</firstname>
+    <lastname>Arthur</lastname>
+    <birthplace>Fairfield</birthplace>
+    <birthstate>Vermont</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="22">
+    <firstname>Grover</firstname>
+    <lastname>Cleveland</lastname>
+    <birthplace>Caldwell</birthplace>
+    <birthstate>New Jersey</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="23">
+    <firstname>Benjamin</firstname>
+    <lastname>Harrison</lastname>
+    <birthplace>North Bend</birthplace>
+    <birthstate>Ohio</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="24">
+    <firstname>Grover</firstname>
+    <lastname>Cleveland</lastname>
+    <birthplace>Caldwell</birthplace>
+    <birthstate>New Jersey</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="25">
+    <firstname>William</firstname>
+    <lastname>McKinley</lastname>
+    <birthplace>Niles</birthplace>
+    <birthstate>Ohio</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="26">
+    <firstname>Theodore</firstname>
+    <lastname>Roosevelt</lastname>
+    <birthplace>New York City</birthplace>
+    <birthstate>New York</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="27">
+    <firstname>William Howard</firstname>
+    <lastname>Taft</lastname>
+    <birthplace>Cincinnati</birthplace>
+    <birthstate>Ohio</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="28">
+    <firstname>Woodrow</firstname>
+    <lastname>Wilson</lastname>
+    <birthplace>Staunton</birthplace>
+    <birthstate>Virginia</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="29">
+    <firstname>Warren Gamaliel</firstname>
+    <lastname>Harding</lastname>
+    <birthplace>Blooming Grove</birthplace>
+    <birthstate>Ohio</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="30">
+    <firstname>Calvin</firstname>
+    <lastname>Coolidge</lastname>
+    <birthplace>Plymouth</birthplace>
+    <birthstate>Vermont</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="31">
+    <firstname>Herbert Clark</firstname>
+    <lastname>Hoover</lastname>
+    <birthplace>West Branch</birthplace>
+    <birthstate>Iowa</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="32">
+    <firstname>Franklin Delano</firstname>
+    <lastname>Roosevelt</lastname>
+    <birthplace>Hyde Park</birthplace>
+    <birthstate>New York</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="33">
+    <firstname>Harry S.</firstname>
+    <lastname>Truman</lastname>
+    <birthplace>Lamar</birthplace>
+    <birthstate>Missouri</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="34">
+    <firstname>Dwight David</firstname>
+    <lastname>Eisenhower</lastname>
+    <birthplace>Denison</birthplace>
+    <birthstate>Texas</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="35">
+    <firstname>John Fitzgerald</firstname>
+    <lastname>Kennedy</lastname>
+    <birthplace>Brookline</birthplace>
+    <birthstate>Massachusetts</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="36">
+    <firstname>Lyndon Baines</firstname>
+    <lastname>Johnson</lastname>
+    <birthplace>near Stonewall</birthplace>
+    <birthstate>Texas</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="37">
+    <firstname>Richard Milhous</firstname>
+    <lastname>Nixon</lastname>
+    <birthplace>Yorba Linda</birthplace>
+    <birthstate>California</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="38">
+    <firstname>Gerald Rudolph</firstname>
+    <lastname>Ford</lastname>
+    <birthplace>Omaha</birthplace>
+    <birthstate>Nebraska</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="39">
+    <firstname>James Earl 'Jimmy'</firstname>
+    <lastname>Carter</lastname>
+    <birthplace>Plains</birthplace>
+    <birthstate>Georgia</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="40">
+    <firstname>Ronald Wilson</firstname>
+    <lastname>Reagan</lastname>
+    <birthplace>Tampico</birthplace>
+    <birthstate>Illinois</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="41">
+    <firstname>George Herbert Walker</firstname>
+    <lastname>Bush</lastname>
+    <birthplace>Milton</birthplace>
+    <birthstate>Massachusetts</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="42">
+    <firstname>William Jefferson 'Bill'</firstname>
+    <lastname>Clinton</lastname>
+    <birthplace>Hope</birthplace>
+    <birthstate>Arkansas</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="43">
+    <firstname>George Walker</firstname>
+    <lastname>Bush</lastname>
+    <birthplace>New Haven</birthplace>
+    <birthstate>Connecticut</birthstate>
+    <party>Republican</party>
+  </president>
+  <president term_number="44">
+    <firstname>Barack Hussein</firstname>
+    <lastname>Obama</lastname>
+    <birthplace>Honolulu</birthplace>
+    <birthstate>Hawaii</birthstate>
+    <party>Democratic</party>
+  </president>
+  <president term_number="45">
+    <firstname>Donald John</firstname>
+    <lastname>Trump</lastname>
+    <birthplace>Queens, NYC</birthplace>
+    <birthstate>New York</birthstate>
+    <party>Republican</party>
+  </president>
+</presidents>

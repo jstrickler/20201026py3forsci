@@ -19,9 +19,9 @@ t1 = timeit.Timer(test_code_one, setup_code)  # <3>
 t2 = timeit.Timer(test_code_two, setup_code)  # <3>
 
 print("test one:")
-print(t1.timeit(1000))  # <4>
+print(t1.timeit(10000))  # <4>
 print()
 
 print("test two:")
-print(t2.timeit(1000))  # <4>
+print(t2.timeit(10000))  # <4>
 print()
