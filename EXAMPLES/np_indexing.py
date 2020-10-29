@@ -21,3 +21,9 @@ print()
 print('a[::2] =>', a[::2])  # <7>
 print()
 print('a[:3, -2:] =>', a[:3, -2:])  # <8>
+
+#  array[row, col]
+#  array[row-slice, col]
+#  array[row, col-slice]
+#  array[row-slice, col-slice]
+

@@ -24,5 +24,13 @@ print_header("After dropping beta and delta:")
 print(df2, '\n')
 
 print_header("After dropping rows b, c, and e")
-df3 = df.drop(['b', 'c', 'e'])  # <3>
+df3 = df.drop(['b', 'c', 'e'], axis=0)  # <3>
 print(df3)
+
+df.drop(['alpha'], inplace=True, axis=1)
+print(df)
+print()
+v = df.values
+print(v)
+print(type(v))
+

@@ -23,7 +23,7 @@ print(a1.transpose())  # <6>
 print("------------------")
 
 a2 = np.arange(40)  # <7>
-a2.shape = 2, 5, 4  # <8>
+a2.shape = 2, 5, 4  # <8>  # 8,5   2,4,5  2,20 1,40  2,2,5
 
 print(a2)
 print()

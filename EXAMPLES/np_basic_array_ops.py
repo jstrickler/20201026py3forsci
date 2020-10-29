@@ -37,8 +37,22 @@ print()
 
 s1 = a.sum()  # <6>
 s2 = b.sum()  # <6>
+std = a.std()
+print("STD is", std)
 print("sum of a is {0}; sum of b is {1}".format(s1, s2))
 print()
 
 a += 1000  # <7>
 print(a)
+
+m = a * .8
+print("m:", m)
+
+print(dir(a))
+
+f = a.astype(np.float)
+print("f:", f)
+
+
+
+

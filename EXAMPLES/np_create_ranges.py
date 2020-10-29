@@ -11,7 +11,7 @@ print(r2)
 print("size is", r2.size)
 print()
 
-r3 = np.arange(1.0, 5.0, .3333333)  # <4>
+r3 = np.arange(1.0, 5.0, (1/3))  # <4>
 print(r3)
 print("size is", r3.size)
 print()

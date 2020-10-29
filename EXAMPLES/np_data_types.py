@@ -15,3 +15,5 @@ r3 = np.arange(45, dtype=np.int16)  # <3>
 r3.shape = (3, 3, 5)
 print('r3 datatype:', r3.dtype)
 print('r3 =>\n', r3, '\n')
+
+print(dir(np))

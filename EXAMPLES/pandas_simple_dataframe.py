@@ -28,4 +28,9 @@ print_header('DataFrame df')
 print(df, '\n')
 
 print_header("df['gamma']")
-print(df['gamma'])  # <5>
+print(df['gamma'], '\n')  # <5>
+
+print(df['c':'f'], '\n')
+
+print(df[['beta', 'epsilon']], '\n')
+
