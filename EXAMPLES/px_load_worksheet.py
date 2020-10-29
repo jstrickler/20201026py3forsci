@@ -21,7 +21,10 @@ def main():
     print(ws, '\n')
 
     print(ws['A1'].value)
+    ws['A1'].value = "TERM NUMBER"
     print(ws['C2'].value, ws['B2'].value)
+
+    wb.save('../DATA/presidents.xlsx')
 
 
 if __name__ == '__main__':
